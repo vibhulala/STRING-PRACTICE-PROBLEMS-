@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0506-relative-ranks) |
