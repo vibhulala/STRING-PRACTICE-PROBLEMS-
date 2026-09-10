@@ -15,6 +15,8 @@ class Solution:
         time comppexity:-o(n^2)
         space complexity:-o(n)
         '''
+        '''
+        better solution 
         n = len(s)
 
         for length in range(1, n):
@@ -36,4 +38,7 @@ class Solution:
                 return True
 
         return False
+        '''
+        #the one liner soltuion of this 
+        return s in (s + s)[1:-1]
         
