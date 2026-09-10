@@ -41,4 +41,12 @@ class Solution:
         '''
         #the one liner soltuion of this 
         return s in (s + s)[1:-1]
+        '''
+        Complexity
+
+Python substring/search implementation ke practical behavior ko dekhte hue ise simple interview analysis mein O(n) ke around treat kiya jata hai, though exact substring-search complexity implementation-dependent ho sakti hai.
+
+Extra space:
+
+O(n)'''
         
