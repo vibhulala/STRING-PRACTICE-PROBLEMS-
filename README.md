@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0917-reverse-only-letters) |
 | [1544-make-the-string-great](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
