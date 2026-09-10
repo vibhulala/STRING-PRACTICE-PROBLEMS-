@@ -26,11 +26,15 @@ class Solution:
             "---", ".--.", "--.-", ".-.", "...", "-", "..-",
             "...-", ".--", "-..-", "-.--", "--.."
         ]
-        unique=set()
+        unique = set()
+
         for word in words:
-            code=[]
+            code = ""
+
             for ch in word:
-                index=ord(ch)-ord('a')
-                code.append(morse[index])
-            unique.add("".join(code))
+                index = ord(ch) - ord('a')
+                code += morse[index]
+
+            unique.add(code)
+
         return len(unique)
