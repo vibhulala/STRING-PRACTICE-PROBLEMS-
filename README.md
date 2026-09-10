@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0917-reverse-only-letters) |
@@ -137,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
