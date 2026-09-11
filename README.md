@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0917-reverse-only-letters) |
+| [1360-number-of-days-between-two-dates](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1360-number-of-days-between-two-dates) |
 | [1544-make-the-string-great](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0459-repeated-substring-pattern) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
