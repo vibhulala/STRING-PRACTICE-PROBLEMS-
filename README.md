@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0804-unique-morse-code-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0804-unique-morse-code-words) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1360-number-of-days-between-two-dates) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
