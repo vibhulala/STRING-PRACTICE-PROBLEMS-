@@ -18,9 +18,20 @@ class Solution:
       time complexity-o(n)
       space complexity-o(n)
       '''  
+      '''
+      better approch:- ko hmne better aise bana by making the calculations during the time of traverssal of linekd list we will simply make a binary to deciamal calcualtion liek 101 if we pikk 1 we will do this 0*2+1=1 and so on ... 
       ans=0
       current=head
       while current:
         ans=ans*2+current.val
         current=current.next
+      return ans
+      time complexity -o(n)
+      space complexity -O(1)
+      '''
+      # WAISE TO BETTER HI OPTIMIZED THA BUT FIR BHI ISE AUR PYTHONIC BAN SKTE HAIN 
+      ans = 0
+      while head:
+        ans = ans * 2 + head.val
+        head = head.next
       return ans
