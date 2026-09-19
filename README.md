@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0876-middle-of-the-linked-list) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
 | [1544-make-the-string-great](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
