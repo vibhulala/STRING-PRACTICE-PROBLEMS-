@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1295-find-numbers-with-even-number-of-digits) |
