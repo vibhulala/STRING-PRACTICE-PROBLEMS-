@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
