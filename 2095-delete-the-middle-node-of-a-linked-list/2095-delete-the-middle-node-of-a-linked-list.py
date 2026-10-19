@@ -24,6 +24,7 @@ class Solution:
         prev.next=prev.next.next
         return head  
         '''
+        '''
         if not head or not head.next:
             return None
 
@@ -40,5 +41,19 @@ class Solution:
         prev.next = slow.next
 
         return head
+        '''
+        if not head or not head.next:
+            return None
+
+        prev = None
+        slow = fast = head
+
+        while fast and fast.next:
+            prev, slow = slow, slow.next
+            fast = fast.next.next
+
+        prev.next = slow.next
+        return head
+
 
 
