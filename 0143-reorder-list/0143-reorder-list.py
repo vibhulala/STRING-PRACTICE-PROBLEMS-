@@ -1,29 +1,31 @@
 
 class Solution:
     def reorderList(self, head: ListNode | None) -> None:
-        if not head:
+        if not head or not head.next:
             return
 
-        nodes = []
-        current = head
+        # 1. Find the middle
+        slow = fast = head
+        while fast.next and fast.next.next:
+            slow = slow.next
+            fast = fast.next.next
 
-        # Store all nodes in an array
-        while current:
-            nodes.append(current)
-            current = current.next
+        # 2. Reverse the second half
+        prev, curr = None, slow.next
+        slow.next = None
 
-        left, right = 0, len(nodes) - 1
+        while curr:
+            curr.next, prev, curr = prev, curr, curr.next
 
-        # Reorder nodes from both ends
-        while left < right:
-            nodes[left].next = nodes[right]
-            left += 1
+        # 3. Merge both halves
+        first, second = head, prev
 
-            if left >= right:
-                break
+        while second:
+            next_first = first.next
+            next_second = second.next
 
-            nodes[right].next = nodes[left]
-            right -= 1
+            first.next = second
+            second.next = next_first
 
-        # Terminate the list
-        nodes[left].next = None
+            first = next_first
+            second = next_second
