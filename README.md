@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0804-unique-morse-code-words) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## String
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
