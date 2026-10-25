@@ -1,24 +1,24 @@
-
 class Solution:
     def removeZeroSumSublists(self, head: ListNode | None) -> ListNode | None:
         dummy = ListNode(0, head)
+        prefix_map = {}
+
+        curr = dummy
         prefix_sum = 0
-        last_seen = {}
-        current = dummy
 
         # Pass 1: Store the last node for each prefix sum
-        while current:
-            prefix_sum += current.val
-            last_seen[prefix_sum] = current
-            current = current.next
+        while curr:
+            prefix_sum += curr.val
+            prefix_map[prefix_sum] = curr
+            curr = curr.next
 
-        # Pass 2: Skip zero-sum ranges
+        # Pass 2: Skip zero-sum sublists
+        curr = dummy
         prefix_sum = 0
-        current = dummy
 
-        while current:
-            prefix_sum += current.val
-            current.next = last_seen[prefix_sum].next
-            current = current.next
+        while curr:
+            prefix_sum += curr.val
+            curr.next = prefix_map[prefix_sum].next
+            curr = curr.next
 
         return dummy.next
