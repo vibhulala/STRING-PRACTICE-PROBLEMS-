@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
