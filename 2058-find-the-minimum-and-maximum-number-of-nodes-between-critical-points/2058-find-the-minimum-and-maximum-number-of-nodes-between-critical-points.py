@@ -1,31 +1,24 @@
-
 class Solution:
     def nodesBetweenCriticalPoints(self, head):
-        positions = []
-        current = head.next
-        previous = head
-        position = 2
+        prev = head
+        curr = head.next
+        pos = 2
 
-        while current.next:
-            if ((current.val > previous.val and current.val > current.next.val) or
-                (current.val < previous.val and current.val < current.next.val)):
-                positions.append(position)
+        first = last = -1
+        min_dist = float('inf')
 
-            previous = current
-            current = current.next
-            position += 1
+        while curr.next:
+            if ((curr.val > prev.val and curr.val > curr.next.val) or
+                (curr.val < prev.val and curr.val < curr.next.val)):
 
-        if len(positions) < 2:
-            return [-1, -1]
+                if first == -1:
+                    first = pos
+                else:
+                    min_dist = min(min_dist, pos - last)
 
-        min_distance = float('inf')
+                last = pos
 
-        for i in range(1, len(positions)):
-            min_distance = min(
-                min_distance,
-                positions[i] - positions[i - 1]
-            )
+            prev, curr = curr, curr.next
+            pos += 1
 
-        max_distance = positions[-1] - positions[0]
-
-        return [min_distance, max_distance]
+        return [-1, -1] if first == last else [min_dist, last - first]
