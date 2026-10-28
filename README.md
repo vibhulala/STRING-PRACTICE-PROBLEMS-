@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2678-number-of-senior-citizens](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2678-number-of-senior-citizens) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
