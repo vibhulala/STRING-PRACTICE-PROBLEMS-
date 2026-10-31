@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1295-find-numbers-with-even-number-of-digits) |
