@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
