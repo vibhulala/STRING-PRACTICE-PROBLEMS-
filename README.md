@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/1295-find-numbers-with-even-number-of-digits) |
