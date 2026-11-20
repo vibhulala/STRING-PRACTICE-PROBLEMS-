@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0053-maximum-subarray) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0682-baseball-game) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0367-valid-perfect-square) |
