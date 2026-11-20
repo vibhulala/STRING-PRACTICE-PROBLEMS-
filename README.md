@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0225-implement-stack-using-queues) |
