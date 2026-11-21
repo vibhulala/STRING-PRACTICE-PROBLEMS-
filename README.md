@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
+| [0394-decode-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0459-repeated-substring-pattern) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0682-baseball-game) |
 | [1544-make-the-string-great](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vibhulala/STRING-PRACTICE-PROBLEMS-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
